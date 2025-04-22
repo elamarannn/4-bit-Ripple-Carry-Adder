@@ -1,7 +1,7 @@
 # 4-bit-Ripple-Carry-Adder
 
-## Name : Elamaran S E
-## Reg No : 212222230036
+## Name : Rishi M
+## Reg No : 212222230119
 ## Question : 
 Simulate verilog HDL for 4 bit Ripple Carry Adder using Quartus II 
 ## PROGRAM
