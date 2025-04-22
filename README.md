@@ -1,7 +1,7 @@
 # 4-bit-Ripple-Carry-Adder
 
-## Name : Lathikeshwaran J
-## Reg No : 212222230072
+## Name : Elamaran S E
+## Reg No : 212222230036
 
 ## PROGRAM
 ```
