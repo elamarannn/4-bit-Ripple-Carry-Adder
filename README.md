@@ -2,7 +2,8 @@
 
 ## Name : Elamaran S E
 ## Reg No : 212222230036
-
+## Question : 
+Simulate verilog HDL for 4 bit Ripple Carry Adder using Quartus II 
 ## PROGRAM
 ```
 // 1. 1‑bit Full Adder
